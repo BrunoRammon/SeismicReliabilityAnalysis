@@ -1,0 +1,12 @@
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/edit_cache.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test5.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test5-2.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test4.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test3.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/rebuild_cache.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/cgal_check_build_system.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test1.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/test6.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/CGAL_Qt5_moc_and_resources.dir
+/home/bruno/Documents/TestesCpp/CGALTests/build/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir

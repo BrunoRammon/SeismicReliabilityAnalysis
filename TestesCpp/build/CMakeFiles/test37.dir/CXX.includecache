@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruno/Documents/TestesCpp/test37.cpp
+map
+-
+unordered_map
+-
+vector
+-
+string
+-
+iostream
+-
+sstream
+-
+boost/container_hash/hash.hpp
+-
+

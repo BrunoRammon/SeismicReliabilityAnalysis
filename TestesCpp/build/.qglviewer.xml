@@ -1,0 +1,22 @@
+<!DOCTYPE QGLVIEWER>
+<CGAL::QGLViewer>
+  <State>
+    <foregroundColor blue="180" red="180" green="180"/>
+    <backgroundColor blue="51" red="51" green="51"/>
+  </State>
+  <Display gridIsDrawn="false" FPSIsDisplayed="false" cameraIsEdited="false" axisIsDrawn="true"/>
+  <Geometry posY="0" fullScreen="false" posX="0" width="1920" height="1015"/>
+  <Camera>
+    <Parameters fieldOfView="0.785398" zNearCoefficient="0.005" sceneRadius="3.53553" Type="ORTHOGRAPHIC" zClippingCoefficient="1.73205" orthoCoef="0.414213">
+      <SceneCenter z="0" y="2.5" x="2.5"/>
+    </Parameters>
+    <ManipulatedCameraFrame>
+      <position z="8.53554" y="2.5" x="2.5"/>
+      <orientation q1="7.37459e-118" q2="3.97217e-14" q3="1" q0="2.8127e-117"/>
+      <ManipulatedParameters wheelSens="1" transSens="1" spinSens="0.3" rotSens="1" zoomSens="1"/>
+      <ManipulatedCameraParameters rotatesAroundUpVector="false" flySpeed="0.0353553" zoomsOnPivotPoint="false">
+        <sceneUpVector z="0" y="1" x="0"/>
+      </ManipulatedCameraParameters>
+    </ManipulatedCameraFrame>
+  </Camera>
+</CGAL::QGLViewer>
